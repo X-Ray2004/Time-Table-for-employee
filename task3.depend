@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1679436198 source:e:\code blocks codes\task3\main.cpp
+	<iostream>
+	<string>
+	"Client.h"
+	"clientFile.h"
+	"project.h"
+	"timeSheet.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1679305019 source:e:\code blocks codes\task3\src\timesheet.cpp
+	"timeSheet.h"
+	<iostream>
+	<string>
+
+1679305098 e:\code blocks codes\task3\include\timesheet.h
+	<iostream>
+	<string>
+
+1679326467 source:e:\code blocks codes\task3\src\client.cpp
+	"Client.h"
+
+1679172803 e:\code blocks codes\task3\include\client.h
+	"project.h"
+	<iostream>
+
+1679436848 source:e:\code blocks codes\task3\src\project.cpp
+	"project.h"
+
+1679326084 e:\code blocks codes\task3\include\project.h
+	<iostream>
+	<string>
+	"timeSheet.h"
+
+1678045948 e:\code blocks codes\task3\src\project.cpp
+	"project.h"
+
+1678694999 e:\code blocks codes\task3\include\clientfile.h
+	<iostream>
+	"project.h"
+	"Client.h"
+
+1679434370 source:e:\code blocks codes\task3\src\clientfile.cpp
+	"clientFile.h"
+	<iostream>
+
